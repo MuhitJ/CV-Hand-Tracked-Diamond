@@ -1,0 +1,3 @@
+cd "/Applications/CSC 242/hand_diamond"
+source env/bin/activate
+python3 diamond.py
